@@ -1,0 +1,9 @@
+{
+    "name": "famil/juanki",
+    "license": "MIT",
+    "minimum-stability": "dev",
+    "require": {
+        "bramus/router": "~1.5",
+        "league/plates": "v3.x-dev"
+    }
+}
